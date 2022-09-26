@@ -3,4 +3,4 @@
 <br>
 Mafia Assets
 </h1>
-<h3 align="center">An asset pack for the game [deeeep.io](https://beta.deeeep.io). Made by <code>{-Mafia-}#2810</code>.</h3>
+<h3 align="center">An asset pack for the game <a href="https://beta.deeeep.io">Deeeep.io</a>. Made by <code>{-Mafia-}#2810</code>.</h3>
